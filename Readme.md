@@ -1,11 +1,22 @@
-# Milestone 1:Static Interactive Resume Builder
+#  Dynamic Resume Builder with Form
 
 ## Objective:
+Convert a static resume into a Dynamic Resume Builder where users can fill out a form, and the resume is generated based on their input
 
-Create a static resume with section like:
-▪︎Personal Information (Name,Contact,Details,ProfilePicture)
+## Requirments
+Create a form to capture user input for:
+▪︎Personal Information (Name,email,etc,)
 ▪︎Education 
 ▪︎Skills
 ▪︎Work experience 
 
-▪︎use TypeScript to add basic interactivity, such as a button to toggle the visibility of the "skills"section or other sections.
+▪︎use TypeScript to dynamically generate the resume using the data provided through the form.
+
+
+
+
+
+
+
+
+
